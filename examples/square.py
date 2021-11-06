@@ -2,7 +2,7 @@
 
 import argparse
 
-from solver_dummy.solve_smth import square
+from solver_dummy.functions import square
 
 
 def main(x):

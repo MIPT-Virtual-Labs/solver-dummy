@@ -1,4 +1,4 @@
-from solver_dummy.solve_smth import cube, square
+from solver_dummy.functions import cube, square
 
 
 def test_square():

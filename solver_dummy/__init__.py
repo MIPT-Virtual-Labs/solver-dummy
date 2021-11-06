@@ -1,1 +1,2 @@
-from . import solve_smth
+from . import functions
+from .factorial import factorial

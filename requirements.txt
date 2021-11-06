@@ -20,6 +20,7 @@ pytest==6.2.5
 PyYAML==6.0
 regex==2021.11.2
 six==1.16.0
+-e git+https://github.com/MIPT-Virtual-Labs/solver-dummy.git@76d05a8bca888a4862b65ed593b975d694b6abdd#egg=solver_dummy
 toml==0.10.2
 tomli==1.2.2
 typing-extensions==3.10.0.2

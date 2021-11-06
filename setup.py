@@ -7,5 +7,6 @@ setup(
     url="https://github.com/MIPT-Virtual-Labs/solver-dummy.git",
     author="Andrey Pikunov",
     author_email="pikunov@phystech.edu",
-    install_requires=["pytest"],
+    include_package_data=True,
+    package_data={"": ["./bin/*"]},
 )
