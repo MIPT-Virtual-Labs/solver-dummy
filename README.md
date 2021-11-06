@@ -12,6 +12,9 @@ pip install -e .
 ```shell
 python examples/square.py 2
 # output will be: 4.0
+
+python ./examples/factorial.py 5
+# output will be: 120
 ```
 
 ## Test
